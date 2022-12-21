@@ -1,3 +1,5 @@
+#Question 8:
+
 set1= {1, 2, 3, 4, 5}
 set2= {2, 4, 6, 8}
 set3= {1, 5, 9, 13, 17}
@@ -11,7 +13,6 @@ print(set_sym_dif)
 print("\nQ.8(b)")
 print("\nA new set of all elements that are 'in only one of the three sets Set1,Set2 and Set3' is:")
 set_u1=set1.union(set2)
-#Question 8:
 
 set_uf=set_u1.union(set3)
 
